@@ -8,6 +8,3 @@ Ionic
 
 - 📫 How to reach me ...
 Contact me at github@benedetti.dev
-
-- 🌎 Website ...
-Visit at www.benedetti.dev
